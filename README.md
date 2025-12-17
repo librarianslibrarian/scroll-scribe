@@ -29,10 +29,12 @@ Before running the script, install:
 brew install ocrmypdf tesseract ghostscript
 
 Ubuntu / Linux
+
 sudo apt update
 sudo apt install -y ocrmypdf tesseract-ocr ghostscript
 
 Windows (PowerShell via Chocolatey)
+
 choco install ocrmypdf tesseract ghostscript --yes
 
 📜 Limitations
