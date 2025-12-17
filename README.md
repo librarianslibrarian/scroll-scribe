@@ -42,8 +42,8 @@ choco install ocrmypdf tesseract ghostscript --yes
 Works extremely well for:
 	•	Printed text
 	•	High-resolution scans
-	•	iPhone/phone photos of printed pages
-	•	PDFs that have been “outlined” or exported without a text layer
+	•	Photos of printed pages
+	•	PDFs that have been exported without a text layer
 
 Works partially for:
 	•	Neat, modern handwriting
